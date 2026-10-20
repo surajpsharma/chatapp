@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+.data/
+test-data/
+demo-data/
+dev-data/
+shots/
+.env
+.env.local
+*.log
+.DS_Store
